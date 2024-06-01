@@ -5,7 +5,7 @@ import AppHeader from "../app-header/app-header.jsx"
 import TodoList from '../todo-list';
 import SearchPanel from '../search-panel';
 import ItemStatusFilter from '../item-status-filter';
-import ItemAddForm from '../item-add-form';
+import ItemAddForm from '../item-add-form/item-add-form.jsx';
 
 import './app.css';
 
